@@ -75,10 +75,7 @@ Completed as part of **Task 2** of the Future Intern UI/UX Internship Program.
 # 👨‍💻 Author
 
 **Ayub Adil**
-
-- LinkedIn: Add your LinkedIn profile link
-- GitHub: Add your GitHub profile link
-
+Made with dedication and hardwork
 ---
 
 # ⭐ Feedback
