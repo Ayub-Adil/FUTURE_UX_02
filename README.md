@@ -64,7 +64,7 @@ This project helped me improve my skills in:
 ---
 
 # 🔗 Figma Design Link
-
+https://www.figma.com/proto/AmLlV5MuAqf9Cs8TTSYTb1/UX-UI?node-id=0-1&t=rrI9SOEfgWA2zcnY-1
 
 # 📌 Internship Task
 
